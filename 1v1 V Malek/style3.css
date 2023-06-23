@@ -1,0 +1,17 @@
+body
+{
+    background-color: cornflowerblue;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 60px;
+}
+}
+ul {
+    text-align: start;
+    font-size: 25px;
+}
+footer {
+    text-align: center;
+}
